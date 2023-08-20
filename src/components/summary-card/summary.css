@@ -1,0 +1,71 @@
+.profile{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    
+}
+.person-info{
+    margin-left: 15px;
+    
+}
+
+
+.activityBodys{
+    display: flex;
+    align-items: center;
+    
+}
+
+span{
+    color: #6c757d;
+}
+
+.individualInfo{
+    width: 280px;
+    height: 80px;
+    background-color: rgb(199, 197, 196);
+    border-radius: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 5px; 
+   
+}
+
+.exercise-info{
+    width: 280px;
+    height: 60px;
+    margin-top: 10px;
+    background-color: rgb(199, 197, 196);
+    border-radius: 10px;
+   display: flex;
+   align-items: center;
+  
+}
+
+.activitySummary{
+    margin: 0 auto;
+}
+
+.exercise-details{
+    margin-top: 40px;
+}
+.activity-completed{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 30px;
+   
+  
+}
+
+.break{
+    margin: 5px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,149 @@
+.mainContainer{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    
+}
+
+
+        
+
+
+.cardContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 100px;
+    /* background-color: antiquewhite; */
+    grid-gap: 40px;
+    margin:150px 0 50px 150px;
+   
+}
+
+@media screen and (max-width: 1000px){
+    .cardContainer{
+        grid-template-columns: repeat(2,1fr);
+        border: 100px;
+    /* background-color: antiquewhite; */
+    grid-gap: 20px;
+    margin:70px 0 30px 60px;
+
+    }
+
+}
+@media screen and (max-width: 650px){
+    .cardContainer{
+        grid-template-columns: repeat(1,1fr);
+        border: 50px;
+    /* background-color: antiquewhite; */
+    grid-gap: 20px;
+    margin:30px 0 30px 25px;
+
+    }
+
+}
+
+.activitySummary{
+    width:auto ;
+    height: 630px;
+    /* background-color: rgb(179, 2, 167); */ 
+    border-radius: 5px;
+    position: sticky;
+      top: 50px; /* Distance from the top edge when becoming sticky */
+      background-color: #f5f5f5;
+      padding: 10px;
+      font-size: 18px;
+      border: 1px solid #ccc;
+
+}
+@media screen and (max-width: 650px){
+    .activitySummary{
+        width:auto ;
+        height: 330px; 
+        border-radius: 5px;
+        position: sticky;
+          top: 50px; /* Distance from the top edge when becoming sticky */
+          background-color: #f5f5f5;
+          padding: 5px;
+          font-size: 18px;
+          border: 1px solid #ccc;
+          margin-left: 10px;
+    
+    }
+
+}
+@media screen and (max-width: 1000px){
+    .activitySummary{
+        width:auto ;
+        height: 330px; 
+        border-radius: 5px;
+        position: sticky;
+          top: 50px; /* Distance from the top edge when becoming sticky */
+          background-color: #f5f5f5;
+          padding: 5px;
+          font-size: 18px;
+          border: 1px solid #ccc;
+          margin-right: 30px;
+    
+    }
+
+}
+
+
+ /* activitySummary's css style is written here */
+.profile{
+height: 50px;
+width: 50px;
+border-radius: 50%;
+}
+.activityBodys{
+    display: flex;
+    align-items: center;
+    
+}
+
+span{
+    color: #6c757d;
+}
+
+.individualInfo{
+    width: 280px;
+    height: 80px;
+    background-color: rgb(199, 197, 196);
+    border-radius: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.exercise-info{
+    width: 280px;
+    height: 60px;
+    margin-top: 10px;
+    background-color: rgb(199, 197, 196);
+    border-radius: 10px;
+   display: flex;
+   align-items: center;
+  
+}
+
+.activitySummary{
+    margin: 0 auto;
+}
+
+.exercise-details{
+    margin-top: 40px;
+}
+.activity-completed{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 30px;
+   
+  
+}
+
+.individualInfo button{
+    border: none;
+    border-radius: 100%;
+    display: grid;
+    grid: 5px;
+}

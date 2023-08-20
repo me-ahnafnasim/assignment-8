@@ -1,0 +1,52 @@
+img{
+    width: 250px;
+    height: 95px;
+    
+    
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.cardInfo{
+    width: 270px ;
+    height: 450px;
+    border: 4px solid #E7E9EB;
+    background-color: #E7E9EB;
+    border-radius: 10px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.11), 0 2px 2px rgba(0,0,0,0.11), 0 4px 4px rgba(0,0,0,0.11), 0 6px 8px rgba(0,0,0,0.11), 0 8px 16px rgba(0,0,0,0.11);
+}
+
+.textt{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.cardsBody{
+   margin: 10px;
+   display: grid; 
+   place-items: center;
+   
+}
+
+.buttonDesign{
+     
+    padding: 5px 15px 5px 15px;
+    display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      background-color: #3498db;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease-in-out;
+     
+}
+
+.buttonDesign:hover {
+    background-color: #37b929;
+  }
+
+
+    
+

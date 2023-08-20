@@ -1,0 +1,75 @@
+[
+    {
+      "id": "1",
+      "img": "https://blog.prepscholar.com/hs-fs/hubfs/body_science_bowl.jpg?width=600&name=body_science_bowl.jpg",
+      "title": "Academic Competitive Teams",
+      "description": "These activities are based on a certain academic subject.",
+      "ageRange": "10-20",
+      "timeRequired": "60"
+    },
+    {
+      "id": "2",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_anime.png?width=600&name=body_anime.png",
+      "title": "Art",
+      "description": "These activities will allow you to express yourself artistically—on paper, through a lens, on stage.",
+      "ageRange": "20-40",
+      "timeRequired": "30"
+    },
+    {
+      "id": "3",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_sushi.jpg?width=600&name=body_sushi.jpg",
+      "title": "Cultural and Language",
+      "description": "These activities may help you reconnect with your roots.",
+      "ageRange": "30-50",
+      "timeRequired": "45"
+    },
+    {
+      "id": "4",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_model_un.jpg?width=600&name=body_model_un.jpg",
+      "title":"Debate",
+      "description":"If you have a knack for recognizing faulty logic and destroying opponents' arguments, try one of these clubs.",
+      "ageRange": "15-25",
+      "timeRequired": "120"
+    },
+    {
+      "id": "5",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_habitat.jpg?width=600&name=body_habitat.jpg",
+      "title": "Community",
+      "description": "These activities will allow you to get involved in your community. Furthermore, acquired more knowledge about community",
+      "ageRange": "18-35",
+      "timeRequired": "110"
+    },
+    {
+      "id": "6",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_news.jpg?width=600&name=body_news.jpg",
+      "title": "Media",
+      "description": "If you love writing and communicating, consider getting involved in a media activity to help bring news and information.",
+      "ageRange": "40-70",
+      "timeRequired": "60"
+    },
+    {
+      "id": "7",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_rotc.jpg?width=600&name=body_rotc.jpg",
+      "title": "Military",
+      "description": "If you are interested in learning about discipline, teamwork, and leadership, then you may be interested in a military-based.",
+      "ageRange": "8-60",
+      "timeRequired": "240"
+    },
+    {
+      "id": "8",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_band.jpg?width=600&name=body_band.jpg",
+      "title": "Music",
+      "description": "If you want to try playing an instrument or singing, there are many opportunities to try music-related activities.",
+      "ageRange": "25-50",
+      "timeRequired": "145"
+    },
+    {
+      "id": "9",
+      "img":"https://blog.prepscholar.com/hs-fs/hubfs/body_puppets.jpg?width=600&name=body_puppets.jpg",
+      "title": "Performance Art",
+      "description": "Love to ham it up? You'll find there are many outlets both in your school and in your community to get on a stage.",
+      "ageRange": "15-70",
+      "timeRequired": "45"
+    }
+  ]
+  
